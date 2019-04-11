@@ -1,3 +1,5 @@
 print('hello,world')
 print(2+2)
 print(3*200)
+name = input('please enter your name: ')
+print('hello,', name)
